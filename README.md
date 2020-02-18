@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://klaasdemunck.visualstudio.com/klaasdemunck/_apis/build/status/Klezer.calculator?branchName=master)](https://klaasdemunck.visualstudio.com/klaasdemunck/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://klaasdemunck.visualstudio.com/klaasdemunck/_apis/build/status/Klezer.calculator?branchName=master)](https://klaasdemunck.visualstudio.com/klaasdemunck/_build/latest?definitionId=1&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
